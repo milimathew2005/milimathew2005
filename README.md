@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - Studying Computer Science with a focus on **Artificial Intelligence**.
 - Exploring **Web Development** (Frontend & Backend integrations).
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Programming & Scripts:**
 <p align="left">
